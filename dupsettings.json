@@ -2,8 +2,7 @@
   "openPhases": [
     "phaseTeamResponse",
     "phaseTesterResponse",
-    "phaseBugReporting",
-    "phaseModeration"
+    "phaseBugReporting"
   ],
   "phaseBugReporting": "pe",
   "phaseTeamResponse": "pe-results",
